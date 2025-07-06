@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c977ca212be41d4428203e787f2bb962
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gptSpeak: {instanceID: 0}
+  - happyPrefab: {fileID: 1969741353081106630, guid: 7cfc8aec91ef33d4fa7712fd21921688, type: 3}
+  - sadPrefab: {fileID: 5892306685562747635, guid: 502ccaf73a6b21942a838335b0d64ce9, type: 3}
+  - spawnParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
